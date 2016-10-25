@@ -1,0 +1,116 @@
+body {
+    background-color: #ccffcc;
+    font-family: 'Nunito', sans-serif;;
+}
+table.igra {
+    border-spacing: 15px 0px;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+table.score {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border-style: hidden;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+table.score th, table.score td {
+    border: 1px solid black;
+    font-size: 15px;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    display: inline-grid;
+    background-color: #88ffaa;
+    width: 50%;
+    border: solid grey;
+    border-width: thin;
+    padding: 3px;
+}
+
+h2, h3 {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    display: inline-grid;
+}
+
+button.igra {
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+}
+
+div.zavrsni-gumbi {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #88ffaa;
+}
+
+div.zavrsni-tekst {
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #88ffaa;
+    border: solid grey;
+    border-width: thin;
+    padding: 5px;
+}
+
+div.unos-igraca {
+    padding: 10px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #88ffaa;
+    border: solid grey;
+    border-width: thin;
+    padding: 5px;
+}
+
+div.score {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    background-color: #88ffaa;
+    border: solid grey;
+    border-width: thin;
+    padding: 3px;
+}
+
+button.kreni {
+    height: 50px;
+    width: 150px;
+}
+
+button.zavrsni1 {
+    height: 50px;
+    width: 130px;
+    font-size: auto;
+    float: left;
+}
+
+button.zavrsni2 {
+    height: 50px;
+    width: 130px;
+    font-size: auto;
+    float: right;
+}
