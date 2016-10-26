@@ -10,7 +10,7 @@ Igra se (možda) nalazi [ovdje](http://rp2.studenti.math.hr/~vmagjar/krizickruzi
 ---------------------------------------
 Implementation of Tic Tac Toe game made in PHP.
 
-The game (might) be found [here](http://rp2.studenti.math.hr/~vmagjar/krizickruzic.php)
+You can (maybe) find the game [here](http://rp2.studenti.math.hr/~vmagjar/krizickruzic.php)
 
 
 *October 2016*
